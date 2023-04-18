@@ -1,0 +1,30 @@
+body{
+    background-color: aliceblue;
+    
+}
+
+.topo{
+    background-color: cadetblue;
+    
+}
+
+form{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    width: 800px;
+}
+
+.conteudo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding-top: 50px;
+}
+
+
+
+h2{
+    color: rgb(52, 107, 109);
+}
